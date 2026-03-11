@@ -1,2 +1,0 @@
-# items_review
-Demo
